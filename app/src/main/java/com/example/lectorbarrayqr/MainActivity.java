@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     EditText codigo;
     Button escaner;
+    
 
     private ZXingScannerView vistaEscaner;
 
